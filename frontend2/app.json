@@ -1,0 +1,52 @@
+{
+  "expo": {
+    "name": "frontend2",
+    "slug": "frontend2",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "googleServicesFile": "./google-services.json",
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "permissions": [
+        "READ_EXTERNAL_STORAGE",
+        "WRITE_EXTERNAL_STORAGE",
+        "MEDIA_LIBRARY"
+      ],
+      "package": "com.nikos6.frontend2"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "daf021d4-b041-4014-87b2-69425c458b91"
+      }
+    },
+    "scheme": "frontend2",
+    "plugins": [
+      "expo-secure-store",
+      [
+        "expo-media-library",
+        {
+          "photosPermission": "Allow Financial-Manager to access your photos.",
+          "savePhotosPermission": "Allow Financial-Manager to save photos.",
+          "isAccessMediaLocationEnabled": true
+        }
+      ]
+    ]
+  }
+}

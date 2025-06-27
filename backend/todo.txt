@@ -1,0 +1,3 @@
+[] verificare in register si login
+[] am fact api-ul /token care iti da un nou access token cand ala vechi iti expira si daca mai ai refresh token available. sa vad unde implmenetez 
+/token ca access token inteleg ca il primesti la log in

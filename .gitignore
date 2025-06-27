@@ -1,0 +1,14 @@
+backend/node_modules/
+frontend2/node_modules/
+backend/.env
+backend/images
+backend/uploads
+frontend2/.expo
+frontend2/eas.json
+frontend2/package-lock.json
+frontend2/.env
+frontend2/variables.js
+frontend2/google-services.json
+node_modules
+frontend2/financial-manager-246f6-firebase-adminsdk-fbsvc-53c082de27.json
+frontend2/android

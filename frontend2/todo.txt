@@ -1,0 +1,32 @@
+[v]sa fac verificari pe parola si sa afieze mesaj daca e valid
+[]sa fac astfel incat sa nu se modifice exranul cand apare tastatura
+[] daca dau back sa nu ma bage inapoi, sa se termine sesiunea
+[v] cand dau add income sa dau warning daca nu a completat toate campurile
+[v] sa transfer la baza de date data in format normal, fara ora
+[v] sa modific baza de date cu delete cascade
+[v] sa adaug selectarea bugetului la pagina expenses
+[v] crearea de accounts
+[v] cand sterg income, sa sterg si din totalul din account pe backend
+[] sa fac update la SeeOption
+[v] cand sterg account sa se stearga cascade toate expenses
+[v] sa fac mesajele pt update expense < 0
+[v] sa modific toate api-urile pt refreshtoken
+[v] sa vad la choose category expsne, nu apar?
+[v] la import transactions sa extrag/adaug in conturi suma
+[v] la budgets sa modific logica la query, sa nu ia si bugete stopped
+[] sa incarc expenses cate 10
+[] la openai api pe frontend am salvat in asyncstorage, sa scot aia la final ca sa nu fie hardcodat
+[v] la update transactions sa pot sa le adaug/schimb bugetul
+[v] la profil sa scot butonul de see profile si sa pun numele sus pe pagina si atat
+[] in optionsPage la updateOption am varianta corecta de gestionare a navigate to login, verifica si codul de eroare, ca altfel la orice eroare ma
+redirectiona spre Login
+[?] la 12 primesc mereu notificare, dar cand nu am nimic ziua urmatoare e nume gol - nu primesc notif daca n-am nimic ziua urm. dar uneori nu prm notif pe aplicatie?
+[v] sa incerc sa incarc si fisiere excel nu doar pdf
+[] in documentatie as putea sa vorbesc si de refreshtokenendpoint la auth
+[v] sa aleg ce moneda folosesc in aplicatie - AM FOLOSIT RON
+[v] filtrare tranzactii dupa buget si categorie?
+[v] sa dau referinta la create group mai tarzu cand scriu despre alegerea imaginii
+[v] sa scriu de remindere
+[] sa dezvolt putin la poze
+[v] sa verific ca s toate apiurile
+[] sa pun sursa la poze in documentatie?
