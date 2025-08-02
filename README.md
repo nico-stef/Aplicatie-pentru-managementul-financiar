@@ -24,28 +24,29 @@ O aplicație mobilă pentru platforma Android, pentru a ajuta utilizatorii să �
 
 5. **Gestionarea tranzacțiilor**  
    - Adăugarea tranzacțiilor noi (cheltuieli sau venituri)  
-   - Editarea și ștergerea tranzacțiilor
+   - Editarea, ștergerea, filtrarea tranzacțiilor
 
 6. **Vizualizarea statisticilor**  
    - Monitorizarea evoluției cheltuielilor în timp  
    - Vizualizarea procentuală a cheltuielilor pe categorii
+   - Vizualizarea unnui grafic comparativ între suma alocată în bugete și cheltuielile de fapt realizate în cadrul acelor bugete
 
 7. **Planificator de cheltuieli**  
-   - Crearea obiectivelor financiare personalizate pentru diverse ocazii  
-   - Crearea și gestionarea listelor de cumpărături  
-   - Adăugarea de imagini pentru fiecare element din listă, prin galerie sau camera dispozitivului
+   - Crearea de obiective financiare personalizate, care permit adăugarea mai multor opțiuni pentru fiecare scop, cu preț, imagine și descriere, pentru a facilita luarea deciziilor (de exemplu achiziționarea unui cadou, unde ai mai multe opțiuni, dar vrei să faci o alegere bună și chibzuită)
+   - Când o opțiune este bifată ca aleasă, suma corespunzătoare este extrasă automat din contul utilizatorului
+   - Posibilitatea de a adăuga imagini prin galerie sau camera dispozitivului
 
 8. **Gestionarea cheltuielilor comune**  
-   - Crearea și gestionarea grupurilor de utilizatori  
+   - Crearea și gestionarea grupurilor de utilizatori pentru a gestiona cheltuieli comune(ex: chiria colegilor de apartament)
    - Adăugarea și eliminarea membrilor  
    - Înregistrarea și administrarea cheltuielilor comune  
-   - Încărcarea și vizualizarea imaginilor și fișierelor relevante pentru cheltuieli (chitanțe, documente etc.)
+   - Încărcarea și vizualizarea imaginilor și fișierelor relevante pentru cheltuieli (imagini cu chitanțe, documente pdf sau excel)
 
 9. **Încărcarea extraselor bancare**  
    Utilizatorii pot încărca extrase bancare de la două bănci partenere, iar tranzacțiile vor fi importate automat în aplicație.
 
 10. **Plan de economii personalizat**  
-    Aplicația generează un plan de economii bazat pe datele financiare ale utilizatorului.
+    Aplicația generează un plan de economii bazat pe datele financiare ale utilizatorului. Aceasta face recomandări cu ajutorul OpenAI despre cum poți salva bani, bazat pe tendințele tale financiare.
 
 ## Tehnologii utilizate
 
