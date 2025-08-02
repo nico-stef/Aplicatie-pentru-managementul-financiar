@@ -50,7 +50,7 @@ O aplicație mobilă pentru platforma Android, pentru a ajuta utilizatorii să �
 
 ## Tehnologii utilizate
 
-- **Frontend:** React Native
+- **Frontend:** React Native cu Expo
 - **Backend:** Node.js
 - **Bază de date:** MySQL
 
