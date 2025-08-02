@@ -1,4 +1,4 @@
-# Descriere
+## Descriere
 
 O aplicație mobilă pentru platforma Android, pentru a ajuta utilizatorii să își gestioneze finanțele personale eficient, oferind numeroase funcționalități.
 
