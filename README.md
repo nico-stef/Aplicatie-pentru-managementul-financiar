@@ -15,7 +15,7 @@ O aplicație mobilă pentru platforma Android, pentru a ajuta utilizatorii să �
 3. **Gestionarea cheltuielilor comune**  
    - Crearea și gestionarea grupurilor de utilizatori pentru a gestiona cheltuieli comune(ex: chiria colegilor de apartament) 
    - Înregistrarea și administrarea cheltuielilor comune 
-   - Încărcarea și vizualizarea imaginilor și fișierelor relevante pentru cheltuieli (imagini cu chitanțe, documente pdf sau excel)
+   - Încărcarea și vizualizarea imaginilor și fișierelor relevante pentru cheltuieli (imagini, documente pdf sau excel)
    - Adăugarea și eliminarea membrilor 
 
 4. **Extragerea tranzacțiilor din extrasele bancare**  
