@@ -43,10 +43,10 @@ O aplicație mobilă pentru platforma Android, pentru a ajuta utilizatorii să �
    - Vizualizarea procentuală a cheltuielilor pe categorii
    - Vizualizarea unnui grafic comparativ între suma alocată în bugete și cheltuielile de fapt realizate în cadrul acelor bugete
 
-10. **Administrarea profilului**  
-   - Editarea informațiilor personale  
-   - Ștergerea contului  
-   - Deconectarea din aplicație
+10. **Administrarea profilului**
+    - Editarea informațiilor personale  
+    - Ștergerea contului  
+    - Deconectarea din aplicație
 
 ## Tehnologii utilizate
 
